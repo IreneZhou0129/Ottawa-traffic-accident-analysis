@@ -1,0 +1,1 @@
+Alter table accident add column accident_key serial primary key ;
